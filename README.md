@@ -1,0 +1,10 @@
+# ABOUT ME
+
+Hello! My name is Yashraj Malhotra.
+I am a student of Linux.
+
+## Skills
+Linux system adminitraton
+bash scripting
+ven control with GIT
+AWK and sed for text processing
